@@ -20,3 +20,9 @@
 составлен пайплайн.
 • Результат: обучена модель DecisionTree для задач классификации и регрессии
 • Стек: python, pandas, scikit-learn, seaborn, KNeighbors, DecisionTree
+
+<details>
+<summary>How do I dropdown?</summary>
+<br>
+This is how you dropdown.
+</details>
