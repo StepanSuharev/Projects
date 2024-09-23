@@ -7,11 +7,11 @@
 * Результат: обучена модель CaBoostRegressor для предсказания финальной 
 температуры сплава
 * Стек: python, pandas, scikit-learn, LGBM, CatBoost, seaborn 
-* Ссылка на проект: https://github.com/StepanSuharev/Projects/tree/main/metal%20project
+* [Ссылка на проект](https://github.com/StepanSuharev/Projects/tree/main/metal%20project)
 ## Проектная работа по предсказание уровня удовлетворённости сотрудника
 * Задача проекта: предсказание уровня удовлетворённости сотрудника\
 предсказание увольнения сотрудника из компании. 
 * Что сделано: проведена предобработка, анализ таблицы с данными о сотрудниках, включающая в себя отдел, должность, загруженность, длительность работы в компании и т.д. Для обучения и выбора модели был составлен пайплайн.
 * Результат: обучена модель DecisionTree для задач классификации и регрессии
 * Стек: python, pandas, scikit-learn, seaborn, KNeighbors, DecisionTree
-* Ссылка на проект: [ссылка][https://github.com/StepanSuharev/Projects/tree/main/satisfaction%20rate]
+* [Ссылка на проект](https://github.com/StepanSuharev/Projects/tree/main/satisfaction%20rate)
