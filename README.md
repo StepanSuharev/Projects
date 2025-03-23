@@ -20,4 +20,4 @@
 * Что сделано: найден датасет, обучена модель YOLOv11 для определения bbox на 2д плане этажа, создан небольшой, встроенный в тетрадь, интерфейс  
 * Результат: обученная модель, которая по плану помещения возвращает список координат углов помещений в заданном формате
 * Стек: PyTorch, YOLO, Numpy, matplotlib, OpenCV
-* [Ссылка на проект](https://github.com/StepanSuharev/Projects/tree/main/satisfaction%20rate)
+* [Ссылка на проект](https://github.com/StepanSuharev/Projects/tree/main/XR%20Place)
